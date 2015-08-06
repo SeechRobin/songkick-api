@@ -19,6 +19,7 @@
 @interface ApiManager ()
 {
     AFHTTPClient    * _httpClient;
+
    
 }
 
